@@ -1,0 +1,340 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300;700&display=swap');
+
+.main-website,
+.main-website * {
+  box-sizing: border-box;
+}
+.main-website {
+  background: linear-gradient(
+    114.96deg,
+    rgba(150, 152, 193, 1) 18.000000715255737%,
+    rgba(209, 200, 215, 1) 100%
+  );
+  height: 2654px;
+  position: relative;
+  overflow: hidden;
+}
+.ballons-1 {
+  width: 1280px;
+  height: 720px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+  object-fit: cover;
+}
+.l-3-aybat-dl-7-alwa-1 {
+  width: 1280px;
+  height: 720px;
+  position: absolute;
+  left: calc(50% - 680.5px);
+  top: -43px;
+  object-fit: cover;
+}
+.l-3-aybat-dl-7-alwa-2 {
+  width: 1280px;
+  height: 720px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+  object-fit: cover;
+}
+.dec-22-2006 {
+  color: #fffffd;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 45px;
+  letter-spacing: 0.17em;
+  font-weight: 700;
+  position: absolute;
+  left: 885px;
+  top: 312px;
+}
+.rectangle-1 {
+  background: #706f97;
+  border-radius: 30px;
+  width: 304px;
+  height: 32px;
+  position: absolute;
+  left: 825px;
+  top: 443px;
+}
+.let-s-celebrate {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.17em;
+  font-weight: 400;
+  position: absolute;
+  left: 840px;
+  top: 445px;
+}
+.if-the-whole-world-was-against-this-girl-then-i-m-against-the-whole-world {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 23px;
+  letter-spacing: 0.17em;
+  font-weight: 700;
+  position: absolute;
+  left: 802px;
+  top: 488px;
+  width: 351px;
+  height: 99px;
+  -webkit-text-stroke: 0.4000000059604645px #4d4f72;
+}
+.blur-circle-1 {
+  width: 209px;
+  height: 209px;
+  position: absolute;
+  left: 590px;
+  top: 531px;
+  object-fit: cover;
+}
+.blur-circle-2 {
+  width: 209px;
+  height: 209px;
+  position: absolute;
+  left: 23px;
+  top: 116px;
+  object-fit: cover;
+}
+.poduim-1 {
+  width: 882px;
+  height: 882px;
+  position: absolute;
+  left: -153px;
+  top: 116px;
+  object-fit: cover;
+}
+.happy {
+  color: #f1cedd;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 50px;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+  position: absolute;
+  left: 232px;
+  top: 289px;
+}
+.birthday-to-you {
+  color: #fffffd;
+  text-align: center;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 50px;
+  line-height: var(--display-large-line-height, 64px);
+  letter-spacing: 0.15em;
+  font-weight: 900;
+  position: absolute;
+  left: 167px;
+  top: 352px;
+}
+.layj-3-l-rbi-y-7-n-3-lk {
+  color: #f1cedd;
+  text-align: left;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 22px;
+  line-height: 64px;
+  letter-spacing: 0.15em;
+  font-weight: 900;
+  position: absolute;
+  left: 193px;
+  top: 473px;
+}
+.corners-1 {
+  width: 436px;
+  height: 436px;
+  position: absolute;
+  left: 935px;
+  top: -276px;
+  object-fit: cover;
+}
+.malak {
+  color: #e8c8df;
+  text-align: center;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 29px;
+  letter-spacing: 0.17em;
+  font-weight: 900;
+  position: absolute;
+  left: 28px;
+  top: 28px;
+  width: 151px;
+  height: 24px;
+}
+.home {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 29px;
+  letter-spacing: 0.17em;
+  font-weight: 400;
+  position: absolute;
+  left: 377px;
+  top: 28px;
+}
+.gift {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 29px;
+  letter-spacing: 0.17em;
+  font-weight: 400;
+  position: absolute;
+  left: 579px;
+  top: 28px;
+}
+.rectangle-2 {
+  background: #272727;
+  width: 1589px;
+  height: 2129px;
+  position: absolute;
+  left: -155px;
+  top: 720px;
+}
+.wave-1 {
+  width: 2675px;
+  height: 285px;
+  position: absolute;
+  left: -698px;
+  top: 717px;
+  overflow: visible;
+}
+.today-the-prettiest-girl-achieves-18-years {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 934px;
+}
+.cake-1 {
+  width: 258px;
+  height: 258px;
+  position: absolute;
+  left: 1045px;
+  top: 1104px;
+  object-fit: cover;
+}
+.birthday-wish-from-ali {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat Alternates", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 34px;
+  position: absolute;
+  left: 57px;
+  top: 1077px;
+}
+.birthday-wish-from-mery {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat Alternates", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 34px;
+  position: absolute;
+  left: 58px;
+  top: 1486px;
+}
+.birthday-wish-from-simo {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat Alternates", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 34px;
+  position: absolute;
+  left: 57px;
+  top: 2066px;
+}
+.happy-18th-birthday-welcome-to-adulthood-where-dreams-grow-bigger-and-possibilities-are-endless-may-your-journey-ahead-be-filled-with-love-laughter-and-unforgettable-adventures-here-s-to-a-future-as-bright-as-your-smile {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat Alternates", serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 34px;
+  position: absolute;
+  left: 101px;
+  top: 1134px;
+}
+.happy-18th-birthday-to-the-most-amazing-sweetest-and-prettiest-girl-you-re-starting-a-new-chapter-in-your-life-and-you-must-be-so-excited-for-it-with-new-experiences-and-new-memories-to-create-i-can-t-wait-to-see-all-the-incredible-things-you-ll-achieve-wishing-you-love-laughter-success-happiness-and-unforgettable-moments-because-you-re-an-angel-and-deserve-all-the-sweetest-things-in-life-enjoy-every-second-of-being-18-it-s-your-time-to-shine {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat Alternates", serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 34px;
+  position: absolute;
+  left: 102px;
+  top: 1539px;
+}
+.malak-eighteen-petals-of-wisdom-now-adorn-your-soul-may-your-life-s-bouquet-bloom-with-vibrant-dreams-i-want-to-begin-my-wishes-by-this-part-of-a-poetic-my-sister-my-friend-malak-today-an-eighteen-chapters-of-growth-adventure-and-self-discovery-await-and-now-write-your-story-with-passion-resilience-and-success-i-know-it-s-a-few-since-we-became-friends-but-you-could-be-of-my-friends-by-your-spontality-soul-and-your-kindness {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat Alternates", serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 34px;
+  position: absolute;
+  left: 102px;
+  top: 2119px;
+}
+.pngtree-gold-balloon-number-18-png-image-13853809-1 {
+  width: 286px;
+  height: 298px;
+  position: absolute;
+  left: 1031px;
+  top: 1602px;
+  object-fit: cover;
+}
+.pngtree-teddy-bear-illustration-png-image-6139292-1 {
+  width: 456px;
+  height: 456px;
+  position: absolute;
+  left: 946px;
+  top: 2080px;
+  object-fit: cover;
+}
+.rectangle-4 {
+  background: #d9d9d9;
+  border-radius: 8px;
+  width: 8px;
+  height: 421px;
+  position: absolute;
+  left: 75px;
+  top: 1540px;
+}
+.rectangle-6 {
+  background: #d9d9d9;
+  border-radius: 8px;
+  width: 8px;
+  height: 255px;
+  position: absolute;
+  left: 75px;
+  top: 1134px;
+}
+.rectangle-5 {
+  background: #d9d9d9;
+  border-radius: 8px;
+  width: 8px;
+  height: 463px;
+  position: absolute;
+  left: 75px;
+  top: 2119px;
+}
+
+
+.off{
+  margin: 5px;
+  width: 40px;
+  height: auto;
+}
